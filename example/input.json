@@ -1,0 +1,56 @@
+{
+    "version": "1.0",
+    "encoding": "UTF-8",
+    "entry": {
+        "xmlns": "http://www.w3.org/2005/Atom",
+        "xmlns$gContact": "http://schemas.google.com/contact/2008",
+        "xmlns$batch": "http://schemas.google.com/gdata/batch",
+        "xmlns$gd": "http://schemas.google.com/g/2005",
+        "gd$etag": "\"SHw7ezVSLyt7I2A9WhNTEE8OQgE.\"",
+        "id": {
+            "$t": "http://www.google.com/m8/feeds/contacts/andris.reinman%40gmail.com/base/4acc2efb88cc1547"
+        },
+        "updated": {
+            "$t": "2012-10-12T06:49:19.203Z"
+        },
+        "app$edited": {
+            "xmlns$app": "http://www.w3.org/2007/app",
+            "$t": "2012-10-12T06:49:19.203Z"
+        },
+        "category": [{
+            "scheme": "http://schemas.google.com/g/2005#kind",
+            "term": "http://schemas.google.com/contact/2008#contact"
+        }],
+        "title": {
+            "$t": "Koogel Moogel"
+        },
+        "content": {
+            "$t": "Some notes about this contact"
+        },
+        "link": [{
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.google.com/m8/feeds/contacts/andris.reinman%40gmail.com/base/4acc2efb88cc1547"
+        }, {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.google.com/m8/feeds/contacts/andris.reinman%40gmail.com/base/4acc2efb88cc1547"
+        }],
+        "gd$name": {
+            "gd$fullName": {
+                "$t": "Koogel Moogel"
+            },
+            "gd$givenName": {
+                "$t": "Koogel"
+            },
+            "gd$familyName": {
+                "$t": "Moogel"
+            }
+        },
+        "gd$phoneNumber": [{
+            "rel": "http://schemas.google.com/g/2005#other",
+            "uri": "tel:+372-123-4567",
+            "$t": "+3721234567"
+        }]
+    }
+}

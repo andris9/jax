@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:gContact="http://schemas.google.com/contact/2008" xmlns:batch="http://schemas.google.com/gdata/batch" xmlns:gd="http://schemas.google.com/g/2005" gd:etag="&quot;SHw7ezVSLyt7I2A9WhNTEE8OQgE.&quot;">
+    <id>http://www.google.com/m8/feeds/contacts/andris.reinman%40gmail.com/base/4acc2efb88cc1547</id>
+    <updated>2012-10-12T06:49:19.203Z</updated>
+    <app:edited xmlns:app="http://www.w3.org/2007/app">2012-10-12T06:49:19.203Z</app:edited>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact" />
+    <title>Koogel Moogel</title>
+    <content>Some notes about this contact</content>
+    <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/andris.reinman%40gmail.com/base/4acc2efb88cc1547" />
+    <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/andris.reinman%40gmail.com/base/4acc2efb88cc1547" />
+    <gd:name>
+        <gd:fullName>Koogel Moogel</gd:fullName>
+        <gd:givenName>Koogel</gd:givenName>
+        <gd:familyName>Moogel</gd:familyName>
+    </gd:name>
+    <gd:phoneNumber rel="http://schemas.google.com/g/2005#other" uri="tel:+372-123-4567">+3721234567</gd:phoneNumber>
+</entry>

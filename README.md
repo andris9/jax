@@ -13,6 +13,8 @@ Convert JSON to XML. Useful for converting Google API JSON structures back to XM
     inputJSON = fs.readFileSync("data.json", "utf-8");
     outputXML = jax(input);
 
+See example/input.json and example/output.xml for sample data format
+
 ## License
 
 MIT
